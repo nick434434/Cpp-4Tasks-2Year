@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  Bulls'n'Cows.cpp
+d:\c++\chessknight\bulls'n'cows\bulls'n'cows.cpp(260): warning C4101: a: неиспользованная локальная переменная
+d:\c++\chessknight\bulls'n'cows\bulls'n'cows.cpp(299): warning C4101: a: неиспользованная локальная переменная
+  Bulls'n'Cows.vcxproj -> D:\C++\ChessKnight\Debug\Bulls'n'Cows.exe
